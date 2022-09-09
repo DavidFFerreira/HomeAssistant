@@ -1,0 +1,25 @@
+
+  wakestatus_1:
+    name: Alarme 1
+    icon: mdi:alarm
+  wakeweekday_seg_1:
+    name: Sabado
+    icon: mdi:calendar
+  wakeweekday_ter_1:
+    name: Segunda        
+    icon: mdi:calendar
+  wakeweekday_qua_1:
+    name: Terça        
+    icon: mdi:calendar
+  wakeweekday_qui_1:
+    name: Quarta       
+    icon: mdi:calendar
+  wakeweekday_sex_1:
+    name: Quinta       
+    icon: mdi:calendar
+  wakeweekday_sab_1:
+    name: Sexta        
+    icon: mdi:calendar
+  wakeweekday_dom_1:
+    name: Domingo        
+    icon: mdi:calendar
