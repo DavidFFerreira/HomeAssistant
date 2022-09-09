@@ -454,10 +454,10 @@ Here is a list of all the integrations I use, including any Custom Components (w
 | [zeroconf](https://www.home-assistant.io/components/zeroconf) |
 | [zone](https://www.home-assistant.io/components/zone) |
 </details>
-
+  
 ### Custom Components Used
 
-
+ ---
 ## Screenshots
 
 ## HA Supervisor
