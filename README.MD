@@ -457,7 +457,10 @@ Here is a list of all the integrations I use, including any Custom Components (w
 
 <details>
 <summary>Devices list</summary>
-| [Philips Hue Bridge](https://www.philips-hue.com/pt-pt/p/hue-hue-bridge/8719514342620?origin=p70275420074&gclid=Cj0KCQjwyOuYBhCGARIsAIdGQRO1od3g_UoPlPoxx4OO36hwHVVX7tZ0KwjuQSZRmUpZJSWKrrJWqlwaArkwEALw_wcB&gclsrc=aw.ds) |
+| Name |
+| --- |
+| [zone](https://www.home-assistant.io/components/zone) |
+| [Philips Hue Bridge](https://www.philips-hue.com/pt-pt/p/hue-hue-bridge/8719514342620) |
 | [Philips Hue e27 800lm color - Model LCT010](https://www.philips-hue.com/pt-pt/p/hue-white-and-color-ambiance-pacote-de-1--e27/8719514328204) |
 | [Philips Hue e27 1100lm color - Model LCA006](https://www.philips-hue.com/pt-pt/p/hue-white-and-color-ambiance-pacote-de-1--e27/8719514291171#specifications) |
 | [Philips Hue e17 470lm color - Model LCT012](https://www.philips-hue.com/pt-pt/p/hue-white-and-color-ambiance-lampada-individual-e14/8719514356610) |
