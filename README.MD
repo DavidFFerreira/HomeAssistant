@@ -69,7 +69,7 @@ To control some lights, I have 2 remote zigbee controlers, that can control ligh
 I'm running a combination of Chinese Routers like Xiaomi AX3200 and Redmi AX6 for mesh and good WIFI6 and a powerfull UDR-EU :P
 This allow me to connect my Phones and a few chinese devices to my WIFI without struggle
 
-![image](https://user-images.githubusercontent.com/32928749/189404303-2cab5e94-b3e6-49d1-8041-d50b30fcee1d.png)
+![image](https://user-images.githubusercontent.com/32928749/189404809-30470b6a-c91e-44eb-a1e8-c28ac1541ad4.png)
 
 ---
 
