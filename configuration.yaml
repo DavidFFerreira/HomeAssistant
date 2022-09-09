@@ -1,0 +1,50 @@
+
+# Loads default set of integrations. Do not remove.
+default_config:
+
+# Text to speech
+tts:
+  - platform: google_translate
+
+group: !include groups.yaml
+light: !include light.yaml
+automation: !include automations.yaml
+script: !include scripts.yaml
+scene: !include scenes.yaml
+switch: !include switch.yaml
+sensor: !include sensor.yaml
+input_number: !include input_number.yaml
+input_boolean: !include input_boolean.yaml
+input_select: !include input_select.yaml
+shell_command: !include shell_command.yaml
+rest_command: !include rest_command.yaml
+mqtt: !include mqtt.yaml
+password: !include password.yaml
+
+
+#light: !include light.yaml
+
+http:
+  use_x_forwarded_for: true
+  trusted_proxies:
+    - 172.30.33.0/24  # Add the IP address of the proxy server
+
+homeassistant:
+  customize: !include customize.yaml
+
+frontend:
+  themes: !include_dir_merge_named themes
+
+
+#google_assistant:
+  project_id: !include google_id.json
+  service_account: !include SERVICE_ACCOUNT.json
+  exposed_domains:
+    - switch
+    - sensor
+    - cover
+    - group
+    - scene
+    - light
+    - sensor
+  expose_by_default: true
