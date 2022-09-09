@@ -67,7 +67,7 @@ I also use alot of Phlips hue Bulds coneected to a few Hue Bridges
 
 ## Stats
 
-_Stats as at 05:00, Thursday, June 23rd 2022_
+_Stats as at 21:00, Friday, October 09rd 2022_
 
 | HA Version                               | No. Integrations                                        | No. Entities | No. Sensors | No. Automations |
 | ---------------------------------------- | ------------------------------------------------------- | ------------ | ----------- | --------------- |
