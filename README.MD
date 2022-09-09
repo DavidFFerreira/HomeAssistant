@@ -466,9 +466,22 @@ Here is a list of all the integrations I use, including any Custom Components (w
 | [Philips Hue e17 470lm color - Model LCT012](https://www.philips-hue.com/pt-pt/p/hue-white-and-color-ambiance-lampada-individual-e14/8719514356610) |
 | [Philips Hue Gu10 350lm color - Model LCG002](https://www.philips-hue.com/pt-pt/p/hue-white-and-color-ambiance-pacote-de-1--gu10/8719514339880) |
 | [Philips Hue GO V1 - Model LLC020](https://www.philips-hue.com/pt-pt/p/hue-white-and-color-ambiance-luz-portatil-go--modelo-mais-recente-/7602031P7) |
-| [Philips Hue GO V1 - Model LCT026](https://www.philips-hue.com/pt-pt/p/hue-white-and-color-ambiance-luz-portatil-go--modelo-mais-recente-/7602031P7) |
+| [Philips Hue GO V2 - Model LCT026](https://www.philips-hue.com/pt-pt/p/hue-white-and-color-ambiance-luz-portatil-go--modelo-mais-recente-/7602031P7) |
 | [Philips Hue Playbar - Model LCT024](https://www.philips-hue.com/pt-pt/p/hue-white-and-color-ambiance-embalagem-dupla-de-barra-de-luz-play/7820230P7) |
 | [Philips Hue Dimmer Switch](https://www.philips-hue.com/en-us/p/hue-dimmer-switch--latest-model-/046677562779) |
+| [LELLKI Zigbee Power Strip](https://s.click.aliexpress.com/e/_DmGSd6r) |  
+| [LELLKI Zigbee Plug Wall Socket EU](https://s.click.aliexpress.com/e/_Dlp2U4R) | 
+| [LELLKI Zigbee Smart Life Plug 16A EU Zigbee](https://s.click.aliexpress.com/e/_DdiBH2n) |   
+| [LELLKI ZigBee Light Switch Smart Wall On Off](https://s.click.aliexpress.com/e/_DBme06F) | 
+| [LELLKI Zigbee Switch Controller](https://s.click.aliexpress.com/e/_DkA6EBN) | 
+| [LELLKI Zigbee Power Strip Energy Monitoring](https://s.click.aliexpress.com/e/_DdlEJAX) | 
+| [LELLKI Zigbee Smart Wall Socket 220v Energy Monitoring](https://s.click.aliexpress.com/e/_DmrUn4T) | 
+| [LELLKI Zigbee Tuya 220V Smart Switch 25A Plug Energy Monitoring](https://s.click.aliexpress.com/e/_DeKDxEr) | 
+| [LELLKI Zigbee Light Switch Energy Monitoring](https://s.click.aliexpress.com/e/_Deu1uTH) | 
+| [LELLKI ZigBee Light Switch EU Glass Smart Touch](https://s.click.aliexpress.com/e/_Ddlvb5z) |
+| [LELLKI Zigbee Gateway Tuya Hub Smart Life Wireless Bridge](https://s.click.aliexpress.com/e/_DCIq0hv) |   
+  
+  
 </details>
 ### Custom Components Used
 
