@@ -68,7 +68,7 @@ I also use alot of Phlips hue Bulds coneected to a few Hue Bridges
 I'm running a combination of Chinese Routers like Xiaomi AX3200 and Redmi AX6 for mesh and good WIFI6 and a powerfull UDR-EU :P
 This allow me to connect my Phones and a few chinese devices to my WIFI without struggle
 
-![image](https://user-images.githubusercontent.com/32928749/189400082-6f8d9c7b-e29d-466a-af41-9e68a340e747.png)
+![image](https://user-images.githubusercontent.com/32928749/189401151-7010cf6a-df50-430b-a0f8-0fca87a70cbf.png)
 ---
 
 ## Stats
