@@ -465,7 +465,7 @@ Here is a list of all the integrations I use, including any Custom Components (w
 | --- |
 | [Zigbee Hub CC2652R ZZH](https://electrolama.com/projects/zig-a-zig-ah/) |
 | [OptiPlex 7060 Micro](https://www.dell.com/pt/empresas/p/optiplex-7060-micro/pd) |
-| [Router Mesh Aiaomi AX3200](https://www.pcdiga.com/router-xiaomi-alot-ax3200-dual-band-wifi-6-gigabit-x-dvb4314gl) |
+| [Router Mesh Xiaomi AX3200](https://www.pcdiga.com/router-xiaomi-alot-ax3200-dual-band-wifi-6-gigabit-x-dvb4314gl) |
 | [Router Mesh Redmi AX6](https://xiaomi-mi.com/wifi-routers/redmi-ax6-router/) |
 | [Router Ubiquiti UDR-EU](https://eu.store.ui.com/products/dream-router) |
 | [Philips Hue Bridge](https://www.philips-hue.com/pt-pt/p/hue-hue-bridge/8719514342620) |
