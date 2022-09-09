@@ -463,7 +463,11 @@ Here is a list of all the integrations I use, including any Custom Components (w
   
 | Name |
 | --- |
-| [zone](https://www.home-assistant.io/components/zone) |
+| [Zigbee Hub CC2652R ZZH](https://electrolama.com/projects/zig-a-zig-ah/) |
+| [OptiPlex 7060 Micro](https://www.dell.com/pt/empresas/p/optiplex-7060-micro/pd) |
+| [Router Mesh Aiaomi AX3200](https://www.pcdiga.com/router-xiaomi-alot-ax3200-dual-band-wifi-6-gigabit-x-dvb4314gl) |
+| [Router Mesh Redmi AX6](https://xiaomi-mi.com/wifi-routers/redmi-ax6-router/) |
+| [Router Ubiquiti UDR-EU](https://eu.store.ui.com/products/dream-router) |
 | [Philips Hue Bridge](https://www.philips-hue.com/pt-pt/p/hue-hue-bridge/8719514342620) |
 | [Philips Hue e27 800lm color - Model LCT010](https://www.philips-hue.com/pt-pt/p/hue-white-and-color-ambiance-pacote-de-1--e27/8719514328204) |
 | [Philips Hue e27 1100lm color - Model LCA006](https://www.philips-hue.com/pt-pt/p/hue-white-and-color-ambiance-pacote-de-1--e27/8719514291171#specifications) |
@@ -526,7 +530,7 @@ Here is a list of all the integrations I use, including any Custom Components (w
 | [OWYEAN Smart ZigBee 3.0 16A Mini DIY Switch Relay Breaker ](https://s.click.aliexpress.com/e/_DmPGTBt) |  
 | [Paul Neuhaus Q-Mia RGBW LED spotlight/wall light with dimmer and CCT -  9185-13](https://www.reuter.com/paul-neuhaus-q-remote-for-q-light-fittings-w-38-h-151-d-15-cm-black-a737280.php) | 
 | [Paul Neuhaus Q-Erik RGBW LED ceiling ligh](https://www.paul-neuhaus.de/fileadmin/user_upload/paul-neuhaus/Landingpage/Q-Booklet_englisch_WEB_2017.pdf) | 
-| [Zigbee Hub CC2652R ZZH](https://electrolama.com/projects/zig-a-zig-ah/) |
+
 </details>
 ### Custom Components Used
 
