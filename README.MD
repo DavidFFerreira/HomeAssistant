@@ -530,7 +530,13 @@ Here is a list of all the integrations I use, including any Custom Components (w
 | [OWYEAN Smart ZigBee 3.0 16A Mini DIY Switch Relay Breaker ](https://s.click.aliexpress.com/e/_DmPGTBt) |  
 | [Paul Neuhaus Q-Mia RGBW LED spotlight/wall light with dimmer and CCT -  9185-13](https://www.reuter.com/paul-neuhaus-q-remote-for-q-light-fittings-w-38-h-151-d-15-cm-black-a737280.php) | 
 | [Paul Neuhaus Q-Erik RGBW LED ceiling ligh](https://www.paul-neuhaus.de/fileadmin/user_upload/paul-neuhaus/Landingpage/Q-Booklet_englisch_WEB_2017.pdf) | 
-
+| [Nvidea Shield 2017](https://www.cnet.com/reviews/nvidia-shield-tv-2017-review/) |  
+| [Google Nest Hub](https://store.google.com/us/product/nest_hub_2nd_gen?pli=1&hl=en-US) | 
+| [Google Mini V2](https://www.tek4life.pt/pt/coluna-inteligente-google-nest-mini-2-geracao-preto) | 
+| [Lenovo Smartclock Essencials](https://www.lenovo.com/us/en/p/smart-devices/smart-home/smart-home-series/smart-clock-essential) | 
+| [Lenovo SmartDisplay 7"](https://www.lenovo.com/gb/en/smart-display/) | 
+| []() | 
+  
 </details>
 ### Custom Components Used
 
