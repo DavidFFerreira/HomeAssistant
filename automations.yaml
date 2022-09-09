@@ -1,0 +1,103 @@
+- alias: z800_restart
+  trigger:
+    platform: state
+    entity_id: input_select.pcoptions
+    to: Restart
+  action:
+  - service: shell_command.restart_z800
+  id: 5c649a75f80c48b390be91bcd12342c7
+- alias: z800_shutdown
+  trigger:
+    platform: state
+    entity_id: input_select.pcoptions
+    to: Shutdown
+  action:
+  - service: shell_command.shutdown_z800
+  id: bdf7ee20e7be4d7d8a4e1ab358cc4736
+  
+- alias: hera_restart
+  trigger:
+    platform: state
+    entity_id: input_select.pcoptions
+    to: Restart
+  action:
+  - service: shell_command.restart_hera
+  id: 5c649a75f80c48b390be91bcd12342c8
+- alias: hera_shutdown
+  trigger:
+    platform: state
+    entity_id: input_select.pcoptions
+    to: Shutdown
+  action:
+  - service: shell_command.shutdown_hera
+  id: bdf7ee20e7be4d7d8a4e1ab358cc4739
+
+- alias: diva_restart
+  trigger:
+    platform: state
+    entity_id: input_select.pcoptions
+    to: Restart
+  action:
+  - service: shell_command.restart_diva
+  id: 5c649a75f80c48b390be91bcd12341c8
+- alias: diva_shutdown
+  trigger:
+    platform: state
+    entity_id: input_select.pcoptions
+    to: Shutdown
+  action:
+  - service: shell_command.shutdown_diva
+  id: bdf7ee20e7be4d7d8a4e1ab358cc4740
+  
+- id: '1617352487'
+  alias: WakeUp ec4
+  description: ''
+  trigger:
+    platform: time_pattern
+    minutes: /45
+  condition:
+    condition: time
+    after: '20:00:00'
+    before: 07:00:00
+  action:
+  - service: rest_command.ec4_wakeup
+  mode: single
+- id: ec4 car_track
+  alias: EC4 Tracker Car
+  trigger:
+  - entity_id: sensor.ec4_mapdata
+    platform: state
+  - event: start
+    platform: homeassistant
+  action:
+  - data:
+      dev_id: car
+      battery: '{{states.sensor.ec4_battery_level.state}}'
+      gps_accuracy: '15'
+      gps:
+      - '{{ (states.sensor.citroen_ec4.attributes["last_position"]["geometry"]["coordinates"][1])
+        }}'
+      - '{{ (states.sensor.citroen_ec4.attributes["last_position"]["geometry"]["coordinates"][0])
+        }}'
+    service: device_tracker.see
+  mode: single
+- id: alarm_clock_123
+  alias: Wake 1
+  trigger:
+  - platform: template
+    value_template: '{{ states(''sensor.time'') == states(''sensor.wake_time_1'')
+      }}'
+  condition:
+  - condition: template
+    value_template: '{% set today = ''input_boolean.wakeweekday_'' ~ now().strftime("%a")
+      | lower ~ ''_1'' %} {{ is_state(''input_boolean.wakestatus_1'', ''on'') and
+      is_state(today, ''on'') }}
+
+      '
+  action:
+  - service: media_player.play_media
+    data:
+      media_content_id: media-source://media_source/local/The-Beach-Boys-Good-Vibrations.mp3
+      media_content_type: music/mp3
+    target:
+      entity_id: media_player.despertadores
