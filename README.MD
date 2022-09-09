@@ -51,11 +51,15 @@ My smarthome setup seems to be ever-growing, but at this stage it's unlikely tha
 ### Hardware
 
 - Dell Optiplex 7060 SFF (i5 8500T, 16Gb RAM, 254Gb HDD) running Proxmox
-  - I run three VMs from this machine, one for Home Assistant (Using HassOS) and the other two for other home server stuff
+  - VM with Debian 11 for Home Assistant Supervisor + Hacs + Docker + Portainer
+  - LXC Container with PLEX + Sonarr + Radarr + qBitTorrent + other usefull stuff
+  - LXC Container with Adgard
+  - LXC Container with OpenVPN
+  - VM with Debian 11 for test stuff
 
 ### Zigbee
 
-I'm running a combination of Chinese sensors for doors, Aqara for movement, switchs and modules from several chinese brands and a ZZH as the host in Zigbee2Mqtt
+I'm running a combination of Chinese sensors for doors, Aqara for movement, switchs and modules from several chinese brands and a ZZH (CC2652R) as the host in Zigbee2Mqtt
 I also use alot of Phlips hue Bulds coneected to a few Hue Bridges
 <p align="right"><a href="#top" title="Back to top">Top</a></p>
 
@@ -522,7 +526,7 @@ Here is a list of all the integrations I use, including any Custom Components (w
 | [OWYEAN Smart ZigBee 3.0 16A Mini DIY Switch Relay Breaker ](https://s.click.aliexpress.com/e/_DmPGTBt) |  
 | [Paul Neuhaus Q-Mia RGBW LED spotlight/wall light with dimmer and CCT -  9185-13](https://www.reuter.com/paul-neuhaus-q-remote-for-q-light-fittings-w-38-h-151-d-15-cm-black-a737280.php) | 
 | [Paul Neuhaus Q-Erik RGBW LED ceiling ligh](https://www.paul-neuhaus.de/fileadmin/user_upload/paul-neuhaus/Landingpage/Q-Booklet_englisch_WEB_2017.pdf) | 
-
+| [Zigbee Hub CC2652R ZZH](https://electrolama.com/projects/zig-a-zig-ah/) |
 </details>
 ### Custom Components Used
 
