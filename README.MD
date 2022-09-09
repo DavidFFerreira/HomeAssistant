@@ -454,7 +454,19 @@ Here is a list of all the integrations I use, including any Custom Components (w
 | [zeroconf](https://www.home-assistant.io/components/zeroconf) |
 | [zone](https://www.home-assistant.io/components/zone) |
 </details>
-  
+
+<details>
+<summary>Devices list</summary>
+| [Philips Hue Bridge](https://www.philips-hue.com/pt-pt/p/hue-hue-bridge/8719514342620?origin=p70275420074&gclid=Cj0KCQjwyOuYBhCGARIsAIdGQRO1od3g_UoPlPoxx4OO36hwHVVX7tZ0KwjuQSZRmUpZJSWKrrJWqlwaArkwEALw_wcB&gclsrc=aw.ds) |
+| [Philips Hue e27 800lm color - Model LCT010] (https://www.philips-hue.com/pt-pt/p/hue-white-and-color-ambiance-pacote-de-1--e27/8719514328204) |
+| [Philips Hue e27 1100lm color - Model LCA006] (https://www.philips-hue.com/pt-pt/p/hue-white-and-color-ambiance-pacote-de-1--e27/8719514291171#specifications) |
+| [Philips Hue e17 470lm color - Model LCT012](https://www.philips-hue.com/pt-pt/p/hue-white-and-color-ambiance-lampada-individual-e14/8719514356610) |
+| [Philips Hue Gu10 350lm color - Model LCG002](https://www.philips-hue.com/pt-pt/p/hue-white-and-color-ambiance-pacote-de-1--gu10/8719514339880) |
+| [Philips Hue GO V1 - Model LLC020](https://www.philips-hue.com/pt-pt/p/hue-white-and-color-ambiance-luz-portatil-go--modelo-mais-recente-/7602031P7) |
+| [Philips Hue GO V1 - Model LCT026](https://www.philips-hue.com/pt-pt/p/hue-white-and-color-ambiance-luz-portatil-go--modelo-mais-recente-/7602031P7) |
+| [Philips Hue Playbar - Model LCT024](https://www.philips-hue.com/pt-pt/p/hue-white-and-color-ambiance-embalagem-dupla-de-barra-de-luz-play/7820230P7) |
+| [Philips Hue Dimmer Switch](https://www.philips-hue.com/en-us/p/hue-dimmer-switch--latest-model-/046677562779) |
+</details>
 ### Custom Components Used
 
  ---
