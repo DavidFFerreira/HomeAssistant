@@ -480,8 +480,49 @@ Here is a list of all the integrations I use, including any Custom Components (w
 | [LELLKI Zigbee Light Switch Energy Monitoring](https://s.click.aliexpress.com/e/_Deu1uTH) | 
 | [LELLKI ZigBee Light Switch EU Glass Smart Touch](https://s.click.aliexpress.com/e/_Ddlvb5z) |
 | [LELLKI Zigbee Gateway Tuya Hub Smart Life Wireless Bridge](https://s.click.aliexpress.com/e/_DCIq0hv) |   
-  
-  
+| [Zigbee Door And Window Magnetic Sensor ](https://s.click.aliexpress.com/e/_DmJH6ix) |     
+| [Zigbee Human Motion Sensor Smart Home PIR Motion](https://s.click.aliexpress.com/e/_DeZ8QZh) | 
+| [ZigBee Temperature And Humidity Sensor](https://s.click.aliexpress.com/e/_DBl75hz) | 
+| [Moes ZigBee Brightness Thermometer Humidity Sensor](https://s.click.aliexpress.com/e/_DllGUur) | 
+| [Moes ZigBee Smart Home Temperature And Humidity Sensor](https://s.click.aliexpress.com/e/_DkTzler) | 
+| [Moes WiFi Tuya Smart IR Remote ](https://s.click.aliexpress.com/e/_DCboWiT) | 
+| [Moes Zigbee Mini DIY Dimmer Switch Module](https://s.click.aliexpress.com/e/_Dkrbhpl) |   
+| [Benexmart Zigbee Tuya LED Dimmable Downlight](https://s.click.aliexpress.com/e/_DdjASgR) | 
+| [Benexmart Zigbee 3.0 Smart LED Downlight for Ceiling ](https://s.click.aliexpress.com/e/_DdP3shp) | 
+| [Benexmart Zigbee Power Socket  16A ](https://s.click.aliexpress.com/e/_DBvcvFZ) | 
+| [Zemismart WiFi Switch Module Mini Switch](https://s.click.aliexpress.com/e/_DCusjFh) |  
+| [Zemismart Zigbee 3.0 Wireless Switch 4 Gang Smart Scene Switches](https://s.click.aliexpress.com/e/_DBj46ij) | 
+| [Zemismart Zigbee Temperature and Humidity Sensor](https://s.click.aliexpress.com/e/_Dkh8yZv) | 
+| [Zemismart Zigbee PIR Infrared PIR Motion Detection Smart Sensor](https://s.click.aliexpress.com/e/_DeWxs8r) | 
+| [Zemismart 6 channels Tuya Zigbee Wireless Switch](https://s.click.aliexpress.com/e/_DesRa79) |  
+| [AUESS 16/10A Tuya MINI WiFi Switch 2-way](https://s.click.aliexpress.com/e/_DdSKtOf) |  
+| [SONOFF NSPanel Smart Touch Scene Wall Switch EU](https://s.click.aliexpress.com/e/_DDOkMnH) |  
+| [SONOFF MINI R2 DIY Smart Wifi Switch 2 Way]() |  
+| [SONOFF Mini R3 16A Wifi Bluetooth Smart Switch](https://s.click.aliexpress.com/e/_Ddh3P1H) |  
+| [SONOFF Basic R2 Wifi DIY Smart Switch ](https://s.click.aliexpress.com/e/_DFtgFYx) |  
+| [Sonoff 4CH R3 PROR3 Smart DIY Switch 4 Channel Din Rail ](https://s.click.aliexpress.com/e/_DDcNQJV) |  
+| [SONOFF ZBBridge Smart Zigbee Bridge Zigbee 3.0 ](https://s.click.aliexpress.com/e/_DDwW9Lt) |  
+| [SONOFF ZBMINI-L Zigbee Smart Switch No Neutral](https://www.aliexpress.com/item/1005001392385579.html) |  
+| [SONOFF WiFi Smart LED Bulb B05-BL B02-BL E26/E27](https://s.click.aliexpress.com/e/_Dd1RYXN) |  
+| [SONOFF L2 LED Light Strip L1-lite 5M 5050 RGB](https://s.click.aliexpress.com/e/_DDBhFRp) |  
+| [SONOFF TH-16 Smart Wifi Switch 16A/3000W Monitoring Temperature Sensor RF433](https://s.click.aliexpress.com/e/_Des1nZV) |
+| [SP511E 24V 38key RGB Controller ](https://s.click.aliexpress.com/e/_DcfyTkT) |  
+| [Sp501E Wifi Led Controller](https://s.click.aliexpress.com/e/_Dn2uU9h) |  
+| [Led Strip WS2811 12v 60leds/M](https://s.click.aliexpress.com/e/_DeoNw4f) |  
+| [Neon Led Strip WS2811 12v 60leds/M](https://s.click.aliexpress.com/e/_DdqMD8x) |  
+| [Smart ZigBee Energy Meter Single Phase 80A Din Rail Power Monitor](https://s.click.aliexpress.com/e/_DDHlbgj) |  
+| [Tuya Smart Zigbee 220V Switch 4 Channel With Ding Rail Housing](https://s.click.aliexpress.com/e/_DkyxuIF) |  
+| [Bingoelec Energy Monitor Smart Socket Wifi Outlet](https://s.click.aliexpress.com/e/_Dm7pZ9H) |
+| [Yagusmart Zigbee 3.0 Smart Inline Dimmer Switch](https://s.click.aliexpress.com/e/_DlCyuKx) |
+| [Yagusmart Tuya WiFi Switch Smart Push Button 1 2 3 Gang Neutral Wire](https://s.click.aliexpress.com/e/_DljJeht) |
+| [Yagusmart Zigbee Smart Switch Tuya Wireless Push Button](https://s.click.aliexpress.com/e/_DkMNIw7) |
+| [Yagusmart Tuya ZigBee Smart Light Switch with Touch Panel No Neutra](https://s.click.aliexpress.com/e/_DlFpTsb) |
+| [Tuya ZigBee Smart Battery Switch Wire Free 1/2/3 Gangs Touch Switch Sticke](https://www.aliexpress.com/item/4001217084809.html) |
+| [eWeLink Single Live Wire WIFI Module DIY mini wifi switch Timer Light Switch Remote Control Module](https://www.aliexpress.com/item/4000727182744.html) |  
+| [OWYEAN Smart ZigBee 3.0 16A Mini DIY Switch Relay Breaker ](https://s.click.aliexpress.com/e/_DmPGTBt) |  
+| [Paul Neuhaus Q-Mia RGBW LED spotlight/wall light with dimmer and CCT -  9185-13](https://www.reuter.com/paul-neuhaus-q-remote-for-q-light-fittings-w-38-h-151-d-15-cm-black-a737280.php) | 
+| [Paul Neuhaus Q-Erik RGBW LED ceiling ligh](https://www.paul-neuhaus.de/fileadmin/user_upload/paul-neuhaus/Landingpage/Q-Booklet_englisch_WEB_2017.pdf) | 
+
 </details>
 ### Custom Components Used
 
