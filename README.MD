@@ -61,6 +61,7 @@ My smarthome setup seems to be ever-growing, but at this stage it's unlikely tha
 
 I'm running a combination of Chinese sensors for doors, Aqara for movement, switchs and modules from several chinese brands and a ZZH (CC2652R) as the host in Zigbee2Mqtt
 I also use alot of Phlips hue Bulds coneected to a few Hue Bridges
+To control some lights, I have 2 remote zigbee controlers, that can control light temperature and color, also have more 2 Hue dim remote controlers and 1 6 button remote controler and another 4 buttons remote handy switch
 <p align="right"><a href="#top" title="Back to top">Top</a></p>
 
 ### WIFI
