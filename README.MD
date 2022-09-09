@@ -455,16 +455,6 @@ Here is a list of all the integrations I use, including any Custom Components (w
 </details>
 
 <details>
-<summary>Expand Integrations List</summary>
-
-| Name |
-| --- |
-| [adaptive_lighting](https://www.home-assistant.io/components/adaptive_lighting) |
-| [Philips Hue Bridge](https://www.philips-hue.com/pt-pt/p/hue-hue-bridge/8719514342620) |
-</details>
-
-
-<details>
 <summary>Expand Devices list</summary>
   
 | Name |
