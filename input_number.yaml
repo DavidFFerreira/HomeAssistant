@@ -1,0 +1,18 @@
+valor_edp:
+  name: 'Valor Edp'
+  min: 0
+  max: 1
+  step: 0.01
+  
+  
+horaalarme_1:
+  name: Hora
+  min: 00
+  max: 23
+  step: 1
+  icon: mdi:alarm
+minutoalarme_1:
+  name: Mintuos
+  min: 00
+  max: 59
+  step: 1

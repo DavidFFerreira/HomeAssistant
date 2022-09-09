@@ -1,0 +1,37 @@
+# enpoint Citroen eC4 Data
+  - platform: command_line
+    switches:
+      ec4_change_threshold:
+        command_on: curl -s "http://999.999.999:9999/charge_control?vin=VRXXXXXXXXXXXXXX&percentage=80"
+        command_off: curl -s "http://999.999.999:9999/charge_control?vin=VRXXXXXXXXXXXXXX&percentage=100"
+      #ec4_change_charge_hour:
+      #  command_on: curl -s "http://999.999.999:9999/charge_control?vin=VRXXXXXXXXXXXXXX&hour=5&minute=0"
+      #  command_off: curl -s "http://999.999.999:9999/charge_control?vin=VRXXXXXXXXXXXXXX&hour=0&minute=0"
+      ec4_clim:
+        command_on: curl -s "http://999.999.999:9999/preconditioning/VRXXXXXXXXXXXXXX/1"
+        command_off: curl -s "http://999.999.999:9999/preconditioning/VRXXXXXXXXXXXXXX/0"
+        
+# Wake Up on Lan (Desktop scritorio)
+  - platform: wake_on_lan
+    mac: "00:00:00:00:00:00"
+    name: "PC - Apophis"
+    host: 999.999.999
+    turn_off:
+      service: shell_command.shutdown_z800    
+      
+# Wake Up on Lan (Desktop Eshilley)
+  - platform: wake_on_lan
+    mac: "00:00:00:00:00:00"
+    name: "PC - Hera"
+    host: 999.999.999
+    turn_off:
+      service: shell_command.shutdown_hera 
+
+# Wake Up on Lan (Desktop Taysnaria)
+  - platform: wake_on_lan
+    mac: "00:00:00:00:00:00"
+    name: "PC - Diva"
+    host: 999.999.999
+    turn_off:
+      service: shell_command.shutdown_hera 
+       

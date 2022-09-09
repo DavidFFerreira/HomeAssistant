@@ -1,0 +1,5 @@
+car:
+  name: Citroen eC4
+  icon: mdi:car-hatchback
+  picture: /local/citroen.png
+  track: true

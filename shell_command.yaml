@@ -1,0 +1,11 @@
+#Desktop Escritório
+shutdown_apophis: "curl -k http://999.999.999:9999/?action=System.Shutdown"
+restart_apophis: "curl -k http://999.999.999:9999/?action=System.Restart"
+
+#Computador Eshilley
+shutdown_hera: "curl -k http://999.999.999:9999/?action=System.Shutdown"
+restart_hera: "curl -k http://999.999.999:9999/?action=System.Restart"
+
+#Desktop Taysnaria
+shutdown_diva: "curl -k http://999.999.999:9999/?action=System.Shutdown"
+restart_diva: "curl -k http://999.999.999:9999/?action=System.Restart"

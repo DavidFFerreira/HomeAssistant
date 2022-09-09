@@ -1,0 +1,25 @@
+##Interruptor da lampada do Teto do quarto da Eshilley
+  - platform: switch
+    name: EshilleySwitchL1
+    entity_id: switch.sonoff_100156b6bb_1
+      
+##Interruptor da lampada do Teto do Escritório      
+  - platform: switch
+    name: EscritorioInterruptorR
+    entity_id: switch.interruptor_teto_escritorio 
+  - platform: group
+    name: IEscritorioTeto
+    entities:
+      - light.interruptor_teto_escritorio
+      - light.hue_color_lamp_3
+      
+##Interruptor da Bancada do da Cozinha  
+  - platform: switch
+    name: CozinhaInterruptorR      
+    entity_id: switch.interruptores_cozinha_right
+    
+##Interruptor da Bancada do da Cozinha  
+  - platform: switch
+    name: QuartoSuiteInterruptorL1 
+    entity_id:  switch.interruptores_quarto_suite_l1
+    

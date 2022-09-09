@@ -1,0 +1,318 @@
+  - platform: time_date
+    display_options:
+      - 'time'
+      - 'date'
+      - 'date_time'
+      - 'date_time_utc'
+      - 'date_time_iso'
+      - 'time_date'
+      - 'time_utc'
+      - 'beat'
+      
+  - platform: integration
+    source: sensor.power
+    name: "Cabeceira David Kw"
+    unit_prefix: k
+    round: 2  
+    
+   
+    
+##Power Calculation --------------------------------------------------    
+#Philips Hue
+  - platform: powercalc
+    entity_id: light.huegov2cabeceira_taysnaria
+    manufacturer: signify
+    model: LCT026
+  - platform: powercalc
+    entity_id: light.huegov2cabecaira_david
+    manufacturer: signify
+    model: LCT026
+  - platform: powercalc
+    entity_id: light.hue_go_v1
+    manufacturer: signify
+    model: LLC020
+  - platform: powercalc
+    entity_id: light.hue_go_v1_2
+    manufacturer: signify
+    model: LLC020    
+  - platform: powercalc
+    entity_id: light.hue_color_lamp_3
+    manufacturer: signify
+    model: LCT010
+  - platform: powercalc
+    entity_id: light.huee27alpendre2
+    manufacturer: signify
+    model: LCT010
+  - platform: powercalc
+    entity_id: light.huee27alpendre1
+    manufacturer: signify
+    model: LCT010
+  - platform: powercalc
+    entity_id: light.e14tv2
+    manufacturer: signify
+    model: LCT012
+  - platform: powercalc
+    entity_id: light.e14tv1
+    manufacturer: signify
+    model: LCT012 
+  - platform: powercalc
+    entity_id: light.huee14_esc2
+    manufacturer: signify
+    model: LCT012
+  - platform: powercalc
+    entity_id: light.e14_candle1
+    manufacturer: signify
+    model: LCT012 
+  - platform: powercalc
+    entity_id: light.huegu101
+    manufacturer: signify
+    model: LCG002
+  - platform: powercalc
+    entity_id: light.huegu102
+    manufacturer: signify
+    model: LCG002
+  - platform: powercalc
+    entity_id: light.huegu103
+    manufacturer: signify
+    model: LCG002
+  - platform: powercalc
+    entity_id: light.huegu104
+    manufacturer: signify
+    model: LCG002
+  - platform: powercalc
+    entity_id: light.huegu105
+    manufacturer: signify
+    model: LCG002
+  - platform: powercalc
+    entity_id: light.huegu106
+    manufacturer: signify
+    model: LCG002
+  - platform: powercalc
+    entity_id: light.hue_color_spot_1
+    manufacturer: signify
+    model: LCG002
+  - platform: powercalc
+    entity_id: light.hue_color_spot_1_2
+    manufacturer: signify
+    model: LCG002
+  - platform: powercalc
+    entity_id: light.hue_color_spot_1_3
+    manufacturer: signify
+    model: LCG002
+  - platform: powercalc
+    entity_id: light.hue_color_spot_1_4
+    manufacturer: signify
+    model: LCG002
+  - platform: powercalc
+    entity_id: light.hue_color_spot_1_5
+    manufacturer: signify
+    model: LCG002
+  - platform: powercalc
+    entity_id: light.hue_color_spot_1_6
+    manufacturer: signify
+    model: LCG002
+  - platform: powercalc
+    entity_id: light.hue_color_spot_1_7
+    manufacturer: signify
+    model: LCG002
+  - platform: powercalc
+    entity_id: light.huee27eshilley_teto
+    manufacturer: signify
+    model: LCA006
+  - platform: powercalc
+    entity_id: light.huee27quartosuite
+    manufacturer: signify
+    model: LCA006 
+#Zigbee Bulbs 
+  - platform: powercalc
+    entity_id: light.downlight_alpendre_1
+    fixed:
+      power: 15
+  - platform: powercalc
+    entity_id: light.downlight_alpendre_2
+    fixed:
+      power: 15
+  - platform: powercalc
+    entity_id: light.gu10_bancada_cozinha_1
+    fixed:
+      power: 3.5
+  - platform: powercalc
+    entity_id: light.gu10_bancada_cozinha_2
+    fixed:
+      power: 3.5
+  - platform: powercalc
+    entity_id: light.gu10_bancada_cozinha_3
+    fixed:
+      power: 3.5
+  - platform: powercalc
+    entity_id: light.gu10_bancada_cozinha_4
+    fixed:
+      power: 3.5
+#Swtichs
+  - platform: powercalc
+    entity_id: switch.interruptores_cozinha_left
+    fixed:
+      power: 48
+  - platform: powercalc
+    entity_id: switch.interruptores_lavandaria_left
+    fixed:
+      power: 15
+#Wled    
+  - platform: powercalc
+    entity_id: light.wled1
+    wled:
+      voltage: 12
+  - platform: powercalc
+    entity_id: light.wled
+    wled:
+      voltage: 12
+  - platform: powercalc
+    entity_id: light.wled_secretaria
+    wled:
+      voltage: 12      
+      
+##Groups
+  - platform: powercalc
+    create_group: luzes_sala
+    entities:
+      -  entity_id: light.e14tv1
+      -  entity_id: light.living_room
+      -  entity_id: light.e14tv1
+      -  entity_id: light.e14tv2
+      -  entity_id: light.huegu101
+      -  entity_id: light.huegu102
+      -  entity_id: light.huegu103
+      -  entity_id: light.huegu104
+      -  entity_id: light.huegu105
+      -  entity_id: light.huegu106
+      -  entity_id: light.hue_color_spot_1
+      -  entity_id: light.hue_color_spot_1_2
+      -  entity_id: light.hue_color_spot_1_3
+      -  entity_id: light.hue_color_spot_1_4
+      -  entity_id: light.hue_color_spot_1_5
+      -  entity_id: light.hue_color_spot_1_6
+      -  entity_id: light.hue_color_spot_1_7
+      -  entity_id: light.wled1
+      -  entity_id: light.wled
+  - platform: powercalc
+    create_group: luzes_quartosuite
+    entities:
+      -  entity_id: light.huegov2cabeceira_taysnaria
+      -  entity_id: light.huegov2cabecaira_david
+      -  entity_id: light.quarto_suite
+  - platform: powercalc
+    create_group: luzes_quartoeshilley
+    entities:
+      -  entity_id: light.e27_secretaria_eshilley
+      -  entity_id: light.huee27eshilley_teto
+  - platform: powercalc
+    create_group: luzes_escritorio
+    entities:
+      -  entity_id: light.hue_go_v1_2
+      -  entity_id: light.hue_go_v1
+      -  entity_id: light.hue_color_lamp_3
+      -  entity_id: light.huee14_esc2
+      -  entity_id: light.e14_candle1
+      -  entity_id: light.playbar1
+      -  entity_id: light.playbar2
+      -  entity_id: light.wled_secretaria
+  - platform: powercalc
+    create_group: luzes_alpendre
+    entities:
+      -  entity_id: light.downlight_alpendre_1
+      -  entity_id: light.downlight_alpendre_2
+      -  entity_id: light.huee27alpendre1
+      -  entity_id: light.huee27alpendre2
+  - platform: powercalc
+    create_group: luzes_cozinha
+    entities:
+      -  entity_id: light.gu10_bancada_cozinha_1
+      -  entity_id: light.gu10_bancada_cozinha_2
+      -  entity_id: light.gu10_bancada_cozinha_3
+      -  entity_id: light.gu10_bancada_cozinha_4
+      -  entity_id: switch.interruptores_cozinha_left
+      -  entity_id: switch.interruptores_lavandaria_left
+
+        
+        
+        
+        
+        
+# citroen ec4  
+  - platform: rest
+    name: citroen_ec4
+    resource: http://XXX.XX.XX.X:XXXX/get_vehicleinfo/VRXXXXXXXXXXXXXX?from_cache=1
+    scan_interval: 60
+    timeout: 30
+    value_template: 'OK'
+    json_attributes:
+     - energy
+     - timed_odometer
+     - battery
+     - last_position
+  - platform: template
+    sensors:
+      ec4_battery_voltage:
+        friendly_name: "Battery Voltage"
+        unit_of_measurement: "V"
+        value_template: '{{ states.sensor.citroen_ec4.attributes["battery"]["voltage"] * 4 }}'
+      ec4_battery_level:
+        friendly_name: "Battery"
+        unit_of_measurement: "%"
+        value_template: '{{ states.sensor.citroen_ec4.attributes["energy"][0]["level"] }}'
+      ec4_battery_autonomy:
+        friendly_name: "Autonomy"
+        unit_of_measurement: "km"
+        value_template: '{{ states.sensor.citroen_ec4.attributes["energy"][0]["autonomy"] }}'
+      ec4_charging_status:
+        friendly_name: "Charging Status"
+        value_template: '{{ states.sensor.citroen_ec4.attributes["energy"][0]["charging"]["status"] }}'
+      ec4_charging_rate:
+        friendly_name: "Charging Status"
+        value_template: '{{ states.sensor.citroen_ec4.attributes["energy"][0]["charging"]["charging_rate"] | int }}' 
+        unit_of_measurement: "kWh"
+      ec4_mileage:
+        friendly_name: "Mileage"
+        unit_of_measurement: "km"
+        value_template: '{{ states.sensor.citroen_ec4.attributes["timed_odometer"]["mileage"] }}'
+      ec4_mapdata:
+        friendly_name: "Kartendaten"
+        value_template: '{{ states.sensor.citroen_ec4.attributes["last_position"]["geometry"]["coordinates"] }}'    
+# citroen ec4 charge_control
+  - platform: rest
+    name: citroen_ec4_charge_control
+    resource: http://XXX.XX.XX.X:XXXX/charge_control?vin=VRXXXXXXXXXXXXXX&?always_check=true
+    scan_interval: 60
+    timeout: 30
+    value_template: 'OK'
+    json_attributes:
+     - _next_stop_hour
+     - percentage_threshold
+  - platform: template
+    sensors:
+      ec4_stop_hour:
+        friendly_name: "Next Stop Time"
+        value_template: '{{ states.sensor.citroen_ec4_charge_control.attributes["_next_stop_hour"]}}'
+      ec4_threshold:
+        friendly_name: "Threshold"
+        unit_of_measurement: "%"
+        value_template: '{{ states.sensor.citroen_ec4_charge_control.attributes["percentage_threshold"] }}'
+  - platform: rest
+    name: car_ec4_mapdata
+    json_attributes_path: "$.last_position.geometry"
+    json_attributes:
+      - coordinates
+    resource: http://XXX.XX.XX.X:XXXX/get_vehicleinfo/VRXXXXXXXXXXXXXX
+    value_template: '{{ value_json.last_position.geometry.coordinates[2] }}'
+    scan_interval: 180
+    
+##Despertador
+  - platform: template
+    sensors:
+      wake_time_1:
+        friendly_name: 'Alarme despertador 1'
+        value_template: "{{'{:02d}:{:02d}'.format(states('input_number.horaalarme_1') | int, states('input_number.minutoalarme_1') | int) }}"
+    
+  - platform: time_date
+    display_options:
+        - 'time'

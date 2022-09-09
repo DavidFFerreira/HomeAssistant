@@ -1,0 +1,8 @@
+pcoptions:
+  name: PC Power Options
+  options:
+    - Restart
+    - Shutdown
+    - None
+  initial: None
+  icon: mdi:desktop-tower
