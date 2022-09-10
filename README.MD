@@ -33,6 +33,7 @@ _Please :star: this repo if you find it useful_
     - [Addons](#addons)
   - [Licence](#licence)
   - [Other Good HA Resources/Configs](#other-good-ha-resourcesconfigs)
+  - [A few videos on youtube by me](#A-few-videos-from-my-own-youtube-channel)
   
   
   ---
@@ -573,8 +574,8 @@ For more information, please refer to [https://unlicense.org](https://unlicense.
 
 ## Other Good HA Resources/Configs
 
-## Other Good HA Resources/Configs
-A few videos from my youtube channel
+## A few videos from my own youtube channel
+
 How to use Tuya Local on Home Assistant
 https://www.youtube.com/watch?v=S4HlEYXVkw4&ab_channel=DavidFerreira
 
