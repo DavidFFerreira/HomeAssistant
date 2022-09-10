@@ -573,6 +573,12 @@ For more information, please refer to [https://unlicense.org](https://unlicense.
 
 ## Other Good HA Resources/Configs
 
+## Other Good HA Resources/Configs
+A few videos from my youtube channel
+How to use Tuya Local on Home Assistant
+https://www.youtube.com/watch?v=S4HlEYXVkw4&ab_channel=DavidFerreira
 
+How to use Home Assistant entities on Google Home
+https://www.youtube.com/watch?v=D6iQob7QeZY&t=4s&ab_channel=DavidFerreira
 
 ![image](https://user-images.githubusercontent.com/32928749/189365835-60fbf4ef-b4fd-40a2-87df-c42eca44ccd6.png)
