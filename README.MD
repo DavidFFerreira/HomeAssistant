@@ -565,6 +565,9 @@ Here is a list of all the integrations I use, including any Custom Components (w
 
 
 ## HA Supervisor
+![image](https://user-images.githubusercontent.com/32928749/190178005-fa3aef9d-d2bd-4644-86ad-69723310108e.png)
+![image](https://user-images.githubusercontent.com/32928749/190178181-edd8b0be-a234-4428-a82a-f98fc911359c.png)
+
 
 ### Addon Repositories
 
