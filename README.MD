@@ -552,6 +552,18 @@ Here is a list of all the integrations I use, including any Custom Components (w
  ---
 ## Screenshots
 
+![image](https://user-images.githubusercontent.com/32928749/190176025-33331cd5-1b6b-4e8f-800b-2de993cb31c9.png)
+![image](https://user-images.githubusercontent.com/32928749/190176084-3c542740-62a9-4f44-bd0a-1d8846c82f12.png)
+![image](https://user-images.githubusercontent.com/32928749/190176256-9325a65b-4fcf-4cd5-8845-b5ba7c7b3aa3.png)
+![image](https://user-images.githubusercontent.com/32928749/190176351-9fe4f674-8cf2-4f29-b4d6-a557ac6f82c0.png)
+![image](https://user-images.githubusercontent.com/32928749/190176446-6a8d5c07-9579-468a-9f8b-c59a974db328.png)
+![image](https://user-images.githubusercontent.com/32928749/190176529-181b711e-9353-41cb-9e06-8c84a2418114.png)
+![image](https://user-images.githubusercontent.com/32928749/190176600-bcd610db-4bba-4016-aa01-482afaeef434.png)
+![image](https://user-images.githubusercontent.com/32928749/190176647-43184abc-62fb-4aef-ade5-6696b9c436cf.png)
+![image](https://user-images.githubusercontent.com/32928749/190176696-4e00d455-15a8-4f5a-af29-9c49bc42b074.png)
+![image](https://user-images.githubusercontent.com/32928749/190176798-24f17647-9791-4035-b684-fef04ba216ba.png)
+
+
 ## HA Supervisor
 
 ### Addon Repositories
