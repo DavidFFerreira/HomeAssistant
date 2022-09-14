@@ -31,6 +31,7 @@ _Please :star: this repo if you find it useful_
   - [HA Supervisor](#ha-supervisor)
     - [Addon Repositories](#addon-repositories)
     - [Addons](#addons)
+  - [Node Red](#Node-Red)
   - [Licence](#licence)
   - [Other Good HA Resources/Configs](#other-good-ha-resourcesconfigs)
   - [A few videos on youtube by me](#A-few-videos-from-my-own-youtube-channel)
@@ -567,6 +568,9 @@ Here is a list of all the integrations I use, including any Custom Components (w
 ## HA Supervisor
 ![image](https://user-images.githubusercontent.com/32928749/190178005-fa3aef9d-d2bd-4644-86ad-69723310108e.png)
 ![image](https://user-images.githubusercontent.com/32928749/190178181-edd8b0be-a234-4428-a82a-f98fc911359c.png)
+
+## Node Red
+![image](https://user-images.githubusercontent.com/32928749/190181282-9fa5a18a-05b4-4900-abe5-fe1aeb6c20be.png)
 
 
 ### Addon Repositories
